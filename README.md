@@ -16,9 +16,6 @@ This project is an implementation of minimizing math functions using different m
 <br/>
 
 ### **Setup:**
-Unfortunaltely only AUTH members can practically use this implementation. This is becasue of the fact that, in order to run the program, you have to include the 
-correct *.jar* file within your project that it is on the following link. The problem is that you need to be AUTH student to enter the platform.<br/>
-[Ithaki-AUTH-NetLab](http://ithaki.eng.auth.gr/netlab/index.html) <br/> <br/>
 *This section will be filled with more useful info soon*.
 <br/>
 <br/>
